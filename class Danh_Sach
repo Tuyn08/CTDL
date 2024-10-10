@@ -1,0 +1,11 @@
+class Danh_Sach {
+    private:
+        int SoLuong;
+    private:
+        void DocDanhSach();
+        void XayDanhSach(user);
+        void HuyDanhSach();
+        void Them(T);
+        void Xoa(T);
+        void CapNhat(T);
+};
